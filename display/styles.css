@@ -1,0 +1,19 @@
+div {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+p {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
+}
+a {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
